@@ -1,0 +1,941 @@
+stationID,station_name,station_city,station_province,station_country,station_code
+1,"Abbotsford-Colby, Wisconsin",Colby,WI,United States,ABB
+2,"Aberdeen, Maryland",Aberdeen,MD,United States,ABE
+3,"Absecon, New Jersey",Absecon,NJ,United States,ABN
+4,"Albuquerque, New Mexico",Albuquerque,NM,United States,ABQ
+5,"Antioch-Pittsburg, California",Antioch,CA,United States,ACA
+6,"Atlantic City, New Jersey",Atlantic City,NJ,United States,ACY
+8,"Ardmore, Oklahoma",Ardmore,OK,United States,ADM
+9,"Augusta, Maine",Augusta,ME,United States,AGM
+10,"Ashland, Oregon",Ashland,OR,United States,AHL
+11,"Ashland, Kentucky",Ashland,KY,United States,AKY
+12,"Albany-Rensselaer, New York",Rensselaer,NY,United States,ALB
+13,"Alliance, Ohio",Alliance,OH,United States,ALC
+14,"Alderson, West Virginia",Alderson,WV,United States,ALD
+15,"Albion, Michigan",Albion,MI,United States,ALI
+16,"Alpena, Michigan",Alpena,MI,United States,ALM
+17,"Alton, Illinois",Alton,IL,United States,ALN
+18,"Alpine, Texas",Alpine,TX,United States,ALP
+19,"Altoona, Pennsylvania",Altoona,PA,United States,ALT
+20,"Alexandria, Virginia",Alexandria,VA,United States,ALX
+21,"Albany, Oregon",Albany,OR,United States,ALY
+22,"Amherst, Massachusetts",Amherst,MA,United States,AMM
+23,"Amsterdam, New York",Amsterdam,NY,United States,AMS
+24,"Anaheim, California",Anaheim,CA,United States,ANA
+25,"Appleton, Wisconsin",Appleton,WI,United States,APP
+26,"Ann Arbor, Michigan",Ann Arbor,MI,United States,ARB
+27,"Arcata, California",Arcata,CA,United States,ARC
+28,"Ardmore, Pennsylvania",Ardmore,PA,United States,ARD
+29,"Astoria (Shell Station Mini Mart), Oregon",Astoria,OR,United States,ARI
+30,"Arkadelphia, Arkansas",Arkadelphia,AR,United States,ARK
+31,"Auburn, California",Auburn,CA,United States,ARN
+32,"Astoria (Transit Center), Oregon",Astoria,OR,United States,ART
+33,"Ashland, Virginia",Ashland,VA,United States,ASD
+34,"Aldershot, Ontario",Aldershot,ON,Canada,AST
+35,"Atascadero, California",Atascadero,CA,United States,ATA
+36,"Athol, Idaho",Athol,ID,United States,ATI
+37,"Atlanta, Georgia",Atlanta,GA,United States,ATL
+38,"Anniston, Alabama",Anniston,AL,United States,ATN
+39,"Atco, New Jersey",Atco,NJ,United States,ATO
+40,"Austin, Texas",Austin,TX,United States,AUS
+42,"Baker City, Oregon",Baker City,OR,United States,BAK
+43,"Baltimore (Penn Station), Maryland",Baltimore,MD,United States,BAL
+44,"Bangor, Michigan",Bangor,MI,United States,BAM
+45,"Bangor, Maine",Bangor,ME,United States,BAN
+46,"Barstow (Amtrak), California",Barstow,CA,United States,BAR
+47,"Bath, Maine",Bath,ME,United States,BAT
+48,"Barnesville, Maryland",Barnesville,MD,United States,BAV
+49,"Barstow (Bus), California",Barstow,CA,United States,BBS
+50,"Boston (Back Bay), Massachusetts",Boston,MA,United States,BBY
+51,"Baltimore (Camden Station), Maryland",Baltimore,MD,United States,BCA
+52,"Burke Centre, Virginia",Burke,VA,United States,BCV
+53,"Bay City, Michigan",Bay City,MI,United States,BCY
+54,"Bend (Riverhouse), Oregon",Bend,OR,United States,BDR
+55,"Bradenton, Florida",Bradenton,FL,United States,BDT
+56,"Bend (Bus Station), Oregon",Bend,OR,United States,BED
+57,"Bellingham, Washington",Bellingham,WA,United States,BEL
+58,"Benson, Arizona",Benson,AZ,United States,BEN
+59,"Berlin, Connecticut",Kensington,CT,United States,BER
+60,"South Beloit, Illinois",South Beloit,IL,United States,BET
+61,"Bakersfield, California",Bakersfield,CA,United States,BFD
+62,"Belfast, Maine",Belfast,ME,United States,BFT
+63,"Buffalo (Exchange St), New York",Buffalo,NY,United States,BFX
+64,"Big Rapids, Michigan",Big Rapids,MI,United States,BGP
+65,"Birmingham, Alabama",Birmingham,AL,United States,BHM
+66,"Berlin, New Hampshire",Berlin,NH,United States,BIN
+67,"Brookings, Oregon",Brookings,OR,United States,BKO
+68,"Berkeley, California",Berkeley,CA,United States,BKY
+69,"Bellows Falls, Vermont",Bellows Falls,VT,United States,BLF
+70,"Birmingham, Michigan",Birmingham,MI,United States,BMM
+71,"Beaumont, Texas",Beaumont,TX,United States,BMT
+72,"Burlington, North Carolina",Burlington,NC,United States,BNC
+73,"Bend (Hawthorne Intermodal Center), Oregon",Bend,OR,United States,BND
+74,"Branford, Connecticut",Branford,CT,United States,BNF
+75,"Bingen-White Salmon, Washington",Bingen,WA,United States,BNG
+76,"Bloomington-Normal, Illinois",Normal,IL,United States,BNL
+77,"Burns, Oregon",Burns,OR,United States,BNS
+78,"Boise, Idaho",Boise,ID,United States,BOI
+79,"Boston (North Station), Massachusetts",Boston,MA,United States,BON
+80,"Boston (South Station), Massachusetts",Boston,MA,United States,BOS
+81,"Brattleboro, Vermont",Brattleboro,VT,United States,BRA
+82,"Brookhaven, Mississippi",Brookhaven,MS,United States,BRH
+83,"Brunswick, Maine",Brunswick,ME,United States,BRK
+84,"Burlington, Iowa",Burlington,IA,United States,BRL
+85,"Browning, Montana",Browning,MT,United States,BRO
+86,"Bridgeport, Connecticut",Bridgeport,CT,United States,BRP
+87,"Battle Creek, Michigan",Battle Creek,MI,United States,BTL
+88,"Baton Rouge, Louisiana",Baton Rouge,LA,United States,BTR
+89,"Buffalo-Depew, New York",Depew,NY,United States,BUF
+90,"Buellton, California",Buellton,CA,United States,BUL
+91,"Burbank (Airport), California",Burbank,CA,United States,BUR
+92,"Beaver Dam, Wisconsin",Beaver Dam,WI,United States,BVD
+93,"Brunswick (Bowdoin College), Maine",Brunswick,ME,United States,BWC
+95,"BWI Thurgood Marshall Airport Station, Maryland",BWI Airport,MD,United States,BWI
+96,"Brunswick, Maryland",Brunswick,MD,United States,BWK
+97,"Brewster, Washington",Brewster,WA,United States,BWW
+98,"Boyds, Maryland",Boyds,MD,United States,BYD
+99,"Boyne Falls, Michigan",Boyne Falls,MI,United States,BYF
+100,"Bryan, Ohio",Bryan,OH,United States,BYN
+102,"Camden, South Carolina",Camden,SC,United States,CAM
+103,"Conway, New Hampshire",Conway,NH,United States,CAY
+105,"Cannon Beach, Oregon",Cannon Beach,OR,United States,CBO
+106,"Cleburne, Texas",Cleburne,TX,United States,CBR
+107,"Columbus, Wisconsin",Columbus,WI,United States,CBS
+108,"Coos Bay, Oregon",Coos Bay,OR,United States,CBY
+109,"Cabazon, California",Cabazon,CA,United States,CBZ
+110,"Cambridge, Maryland",Cambridge,MD,United States,CDE
+111,"Carbondale, Illinois",Carbondale,IL,United States,CDL
+112,"Camden/Rockport, Maine",Rockport,ME,United States,CDN
+113,"Centralia, Illinois",Centralia,IL,United States,CEN
+114,"Coeur d'Alene, Idaho",Coeur d'Alene,ID,United States,CER
+115,"Colfax, Washington",Colfax,WA,United States,CFX
+117,"Chicago (Union Station), Illinois",Chicago,IL,United States,CHI
+118,"Champaign-Urbana, Illinois",Champaign,IL,United States,CHM
+119,"Chippewa Falls, Wisconsin",Chippewa Falls,WI,United States,CHP
+120,"Charleston, South Carolina",North Charleston,SC,United States,CHS
+121,"Charleston, West Virginia",Charleston,WV,United States,CHW
+122,"Chico, California",Chico,CA,United States,CIC
+123,"Cincinnati, Ohio",Cincinnati,OH,United States,CIN
+124,"Claremont, New Hampshire",Claremont,NH,United States,CLA
+125,"Columbia, South Carolina",Columbia,SC,United States,CLB
+126,"Cadillac, Michigan",Cadillac,MI,United States,CLC
+127,"Cleveland, Ohio",Cleveland,OH,United States,CLE
+128,"Clifton Forge, Virginia",Clifton Forge,VA,United States,CLF
+129,"Crater Lake, Oregon",Crater Lake,OR,United States,CLK
+130,"Claremont, California",Claremont,CA,United States,CLM
+131,"Clinton, Connecticut",Clinton,CT,United States,CLN
+132,"Culpeper, Virginia",Culpeper,VA,United States,CLP
+133,"Charlotte, North Carolina",Charlotte,NC,United States,CLT
+134,"Cloverdale, California",Cloverdale,CA,United States,CLV
+135,"Camarillo, California",Camarillo,CA,United States,CML
+136,"Chemult, Oregon",Chemult,OR,United States,CMO
+137,"Concord, New Hampshire",Concord,NH,United States,CNH
+138,"Colonel Allensworth Park, California",Earlimart,CA,United States,CNL
+139,"Castleton, Vermont",Castleton,VT,United States,CNV
+140,"Corcoran, California",Corcoran,CA,United States,COC
+141,"Connersville, Indiana",Connersville,IN,United States,COI
+142,"Colorado Springs, Colorado",Colorado Springs,CO,United States,COS
+143,"Coatesville, Pennsylvania",Coatesville,PA,United States,COT
+144,"Connellsville, Pennsylvania",Connellsville,PA,United States,COV
+145,"Colfax, California",Colfax,CA,United States,COX
+146,"College Park, Maryland",College Park,MD,United States,CPK
+147,"Carpinteria, California",Carpinteria,CA,United States,CPN
+148,"Crescent City, California",Crescent City,CA,United States,CRC
+149,"Crawfordsville, Indiana",Crawfordsville,IN,United States,CRF
+150,"Cherry Hill, New Jersey",Cherry Hill,NJ,United States,CRH
+151,"Carmel, California",Carmel,CA,United States,CRM
+152,"Creston, Iowa",Creston,IA,United States,CRN
+153,"Croton Harmon, New York",Croton-on-Hudson,NY,United States,CRT
+154,"Carlinville, Illinois",Carlinville,IL,United States,CRV
+156,"Clemson, South Carolina",Clemson,SC,United States,CSN
+157,"Centralia, Washington",Centralia,WA,United States,CTL
+158,"Cumberland (Allegany College), Maryland",Cumberland,MD,United States,CUA
+159,"Cumberland (Amtrak Station), Maryland",Cumberland,MD,United States,CUM
+160,"Cut Bank, Montana",Cut Bank,MT,United States,CUT
+161,"Camp Verde, Arizona",Camp Verde,AZ,United States,CVD
+162,"Corvallis, Oregon",Corvallis,OR,United States,CVI
+163,"Cave Junction, Oregon",Cave Junction,OR,United States,CVJ
+164,"Colville, Washington",Colville,WA,United States,CVL
+165,"Charlottesville, Virginia",Charlottesville,VA,United States,CVS
+166,"Cornwells Heights, Pennsylvania",Cornwells Heights,PA,United States,CWH
+167,"Chewelah, Washington",Chewelah,WA,United States,CWL
+168,"Chatsworth, California",Chatsworth,CA,United States,CWT
+169,"Cary, North Carolina",Cary,NC,United States,CYN
+170,"Dallas, Texas",Dallas,TX,United States,DAL
+171,"Damariscotta, Maine",Damariscotta,ME,United States,DAM
+172,"Danville, Virginia",Danville,VA,United States,DAN
+173,"Davis, California",Davis,CA,United States,DAV
+174,"Dublin-Pleasanton, California",Pleasanton,CA,United States,DBP
+175,"Dade City, Florida",Dade City,FL,United States,DDE
+176,"Dodge City, Kansas",Dodge City,KS,United States,DDG
+177,"Denver (Bus Station), Colorado",Denver,CO,United States,DEB
+178,"Deming, New Mexico",Deming,NM,United States,DEM
+179,"Denver, Colorado",Denver,CO,United States,DEN
+180,"Dearborn, Michigan",Dearborn,MI,United States,DER
+181,"Detroit, Michigan",Detroit,MI,United States,DET
+182,"Deerfield Beach, Florida",Deerfield Beach,FL,United States,DFB
+183,"Durham, New Hampshire",Durham,NH,United States,DHM
+184,"Dillon, South Carolina",Dillon,SC,United States,DIL
+185,"Dickerson, Maryland",Dickerson,MD,United States,DKS
+186,"Delray Beach, Florida",Delray Beach,FL,United States,DLB
+187,"Deland, Florida",Deland,FL,United States,DLD
+188,"Detroit Lakes, Minnesota",Detroit Lakes,MN,United States,DLK
+189,"Durham, North Carolina",Durham,NC,United States,DNC
+190,"Denmark, South Carolina",Denmark,SC,United States,DNK
+191,"Dowagiac, Michigan",Dowagiac,MI,United States,DOA
+192,"Dover, New Hampshire",Dover,NH,United States,DOV
+193,"Downingtown, Pennsylvania",Downingtown,PA,United States,DOW
+194,"Deer Park, Washington",Deer Park,WA,United States,DPK
+195,"Du Quoin, Illinois",Du Quoin,IL,United States,DQN
+196,"Durand, Michigan",Durand,MI,United States,DRD
+197,"Dorsey, Maryland",Elkridge,MD,United States,DRS
+198,"Del Rio, Texas",Del Rio,TX,United States,DRT
+199,"Duffields, West Virginia",Duffields,WV,United States,DUF
+200,"Dunkirk, New York",Dunkirk,NY,United States,DUK
+201,"Duluth (Greyhound Station), Minnesota",Duluth,MN,United States,DUL
+202,"Dunsmuir, California",Dunsmuir,CA,United States,DUN
+203,"Duluth (University of Minnesota), Minnesota",Duluth,MN,United States,DUU
+204,"Danville, Illinois",Danville,IL,United States,DVI
+205,"Devils Lake, North Dakota",Devils Lake,ND,United States,DVL
+206,"Davenport, Iowa",Davenport,IA,United States,DVP
+207,"Dover, Delaware",Dover,DE,United States,DVR
+208,"Dwight, Illinois",Dwight,IL,United States,DWT
+209,"Daytona Beach, Florida",Daytona Beach,FL,United States,DYA
+210,"Dyer, Indiana",Dyer,IN,United States,DYE
+211,"Edgewood, Maryland",Edgewood,MD,United States,EDG
+212,"Edmonds, Washington",Edmonds,WA,United States,EDM
+213,"Effingham, Illinois",Effingham,IL,United States,EFG
+214,"Egg Harbor City, New Jersey",Egg Harbor City,NJ,United States,EGH
+215,"Eureka, California",Eureka,CA,United States,EKA
+216,"Elk Grove, California",Elk Grove,CA,United States,EKG
+217,"Elkhart, Indiana",Elkhart,IN,United States,EKH
+218,"Elko, Nevada",Elko,NV,United States,ELK
+219,"El Paso, Texas",El Paso,TX,United States,ELP
+220,"Elsie, Oregon",Elsie,OR,United States,ELS
+221,"Elizabethtown, Pennsylvania",Elizabethtown,PA,United States,ELT
+222,"Elyria, Ohio",Elyria,OH,United States,ELY
+223,"Escanaba, Michigan",Escanaba,MI,United States,EMI
+224,"Emeryville, California",Emeryville,CA,United States,EMY
+225,"Ephrata (Train), Washington",Ephrata,WA,United States,EPH
+226,"El Portal, California",El Portal,CA,United States,EPL
+227,"Ephrata (Bus), Washington",Ephrata,WA,United States,EPR
+228,"Erie, Pennsylvania",Erie,PA,United States,ERI
+229,"El Segundo, California",El Segundo,CA,United States,ESG
+230,"Essex, Montana",Essex,MT,United States,ESM
+231,"Easton, Maryland",Easton,MD,United States,ESN
+232,"Essex Junction, Vermont",Essex Junction,VT,United States,ESX
+233,"Eau Claire, Wisconsin",Eau Claire,WI,United States,EUC
+234,"Eugene, Oregon",Eugene,OR,United States,EUG
+235,"Eugene (University of Oregon), Oregon",Eugene,OR,United States,EUO
+236,"Everett, Washington",Everett,WA,United States,EVR
+237,"Newark Liberty International Airport, New Jersey",Newark,NJ,United States,EWR
+240,"Exeter, New Hampshire",Exeter,NH,United States,EXR
+241,"Exton, Pennsylvania",Exton,PA,United States,EXT
+242,"Fargo, North Dakota",Fargo,ND,United States,FAR
+243,"Fayetteville, North Carolina",Fayetteville,NC,United States,FAY
+244,"Fredericksburg, Virginia",Fredericksburg,VA,United States,FBG
+245,"Fond du Lac, Wisconsin",Fond du Lac,WI,United States,FDL
+246,"Fredonia, New York",Fredonia,NY,United States,FDN
+247,"Fort Edward-Glens Falls, New York",Fort Edward,NY,United States,FED
+248,"Flagstaff (Greyhound), Arizona",Flagstaff,AZ,United States,FGG
+249,"Fort Hood, Texas",Fort Hood,TX,United States,FHD
+250,"Fillmore, California",Fillmore,CA,United States,FIL
+252,"Flagstaff, Arizona",Flagstaff,AZ,United States,FLG
+253,"Flint, Michigan",Flint,MI,United States,FLN
+254,"Florence, South Carolina",Florence,SC,United States,FLO
+255,"Fort Madison, Iowa",Fort Madison,IA,United States,FMD
+256,"Fort Morgan, Colorado",Fort Morgan,CO,United States,FMG
+257,"Fremont (Capitol Trains), California",Fremont,CA,United States,FMT
+258,"Fresno, California",Fresno,CA,United States,FNO
+259,"Foxwoods Casino, Connecticut",Ledyard,CT,United States,FOX
+260,"Framingham, Massachusetts",Framingham,MA,United States,FRA
+261,"Frederick (Transit Center), Maryland",Frederick,MD,United States,FRC
+262,"Florence, Oregon",Florence,OR,United States,FRO
+263,"Frederick (Airport), Maryland",Frederick,MD,United States,FRR
+264,"Fremont (San Joaquin Buses), California",Fremont,CA,United States,FRT
+265,"Frostburg, Maryland",Frostburg,MD,United States,FSB
+266,"Frisco, Colorado",Frisco,CO,United States,FSC
+267,"Fortuna, California",Fortuna,CA,United States,FTA
+268,"Ticonderoga, New York",Ticonderoga,NY,United States,FTC
+269,"Fort Lauderdale, Florida",Fort Lauderdale,FL,United States,FTL
+270,"Fort Myers, Florida",Fort Myers,FL,United States,FTM
+271,"Fulton, Kentucky",Fulton,KY,United States,FTN
+272,"Fort Worth, Texas",Fort Worth,TX,United States,FTW
+273,"Fullerton, California",Fullerton,CA,United States,FUL
+274,"Santa Clara (Great America), California",Santa Clara,CA,United States,GAC
+275,"Gaithersburg, Maryland",Gaithersburg,MD,United States,GAI
+276,"Gastonia, North Carolina",Gastonia,NC,United States,GAS
+277,"Galesburg, Illinois",Galesburg,IL,United States,GBB
+278,"Garibaldi Highlands, British Columbia",Garibaldi Highlands,BC,Canada,GBC
+280,"Garberville, California",Garberville,CA,United States,GBV
+281,"Green Bay, Wisconsin",Green Bay,WI,United States,GBY
+283,"Grand Canyon National Park (Buses), Arizona",Grand Canyon National Park,AZ,United States,GCB
+284,"Garden City, Kansas",Garden City,KS,United States,GCK
+285,"Grand Canyon National Park (Railway), Arizona",Grand Canyon National Park,AZ,United States,GCN
+286,"Glendale, California",Glendale,CA,United States,GDL
+287,"Germantown, Maryland",Germantown,MD,United States,GEM
+288,"Grand Forks, North Dakota",Grand Forks,ND,United States,GFK
+289,"Greenfield Village, Michigan",Dearborn,MI,United States,GFV
+290,"Glasgow, Montana",Glasgow,MT,United States,GGW
+291,"Gold Hill, Oregon",Gold Hill,OR,United States,GHL
+292,"Gearhart, Oregon",Gearhart,OR,United States,GHT
+294,"Grand Junction, Colorado",Grand Junction,CO,United States,GJT
+295,"Gainesville, Texas",Gainesville,TX,United States,GLE
+297,"Gilman, Illinois",Gilman,IL,United States,GLM
+298,"Glenview, Illinois",Glenview,IL,United States,GLN
+299,"Gallup, New Mexico",Gallup,NM,United States,GLP
+300,"Galveston (Texas Eagle Bus), Texas",Galveston,TX,United States,GLS
+301,"Galveston (Sunset Limited Bus), Texas",Galveston,TX,United States,GLV
+302,"Gilroy, California",Gilroy,CA,United States,GLY
+303,"Grimsby, Ontario",Grimsby,ON,Canada,GMS
+304,"Greensburg, Pennsylvania",Greensburg,PA,United States,GNB
+305,"Gainesville, Florida",Gainesville,FL,United States,GNF
+306,"Gainesville, Georgia",Gainesville,GA,United States,GNS
+311,"East Glacier Park, Montana",East Glacier Park,MT,United States,GPK
+313,"Garrett Park, Maryland",Garrett Park,MD,United States,GPM
+315,"Granby, Colorado",Granby,CO,United States,GRA
+316,"Green River, Utah",Green River,UT,United States,GRI
+317,"Greensboro, North Carolina",Greensboro,NC,United States,GRO
+318,"Grand Rapids, Michigan",Grand Rapids,MI,United States,GRR
+320,"Greenville, South Carolina",Greenville,SC,United States,GRV
+321,"Glenwood Springs, Colorado",Glenwood Springs,CO,United States,GSC
+322,"Goshen Junction, California",Goshen,CA,United States,GSN
+323,"Goleta, California",Goleta,CA,United States,GTA
+324,"Grants Pass, Oregon",Grants Pass,OR,United States,GTP
+325,"Grantsville, Maryland",Grantsville,MD,United States,GTV
+326,"Guadalupe-Santa Maria, California",Guadalupe,CA,United States,GUA
+327,"Guilford, Connecticut",Guilford,CT,United States,GUI
+328,"Guthrie, Oklahoma",Guthrie,OK,United States,GUT
+329,"Grover Beach, California",Grover Beach,CA,United States,GVB
+330,"Grangeville, Idaho",Grangeville,ID,United States,GVI
+331,"Greenwood, Mississippi",Greenwood,MS,United States,GWD
+332,"Halethorpe, Maryland",Baltimore,MD,United States,HAE
+333,"Hagerstown, Maryland",Hagerstown,MD,United States,HAG
+334,"Hamlet, North Carolina",Hamlet,NC,United States,HAM
+335,"Harrisburg, Pennsylvania",Harrisburg,PA,United States,HAR
+336,"Hastings, Nebraska",Hastings,NE,United States,HAS
+337,"Havre, Montana",Havre,MT,United States,HAV
+338,"Hayward, California",Hayward,CA,United States,HAY
+339,"Hazlehurst, Mississippi",Hazlehurst,MS,United States,HAZ
+340,"Hattiesburg, Mississippi",Hattiesburg,MS,United States,HBG
+341,"Hudson, Wisconsin",Hudson,WI,United States,HDS
+342,"Healdsburg, California",Healdsburg,CA,United States,HEA
+343,"Hermann, Missouri",Hermann,MO,United States,HEM
+344,"Helper, Utah",Helper,UT,United States,HER
+345,"Hemet (West Florida Ave), California",Hemet,CA,United States,HET
+346,"Hartford, Connecticut",Hartford,CT,United States,HFD
+347,"Harpers Ferry, West Virginia",Harpers Ferry,WV,United States,HFY
+348,"Huntingdon, Pennsylvania",Huntingdon,PA,United States,HGD
+349,"Houghton, Michigan",Houghton,MI,United States,HGH
+350,"Haverhill, Massachusetts",Haverhill,MA,United States,HHL
+351,"Hinton, West Virginia",Hinton,WV,United States,HIN
+352,"Hinckley, Minnesota",Hinckley,MN,United States,HKL
+353,"Hancock, Michigan",Hancock,MI,United States,HKM
+354,"Holdrege, Nebraska",Holdrege,NE,United States,HLD
+355,"Hammond, Louisiana",Hammond,LA,United States,HMD
+356,"Hammond-Whiting, Indiana",Hammond,IN,United States,HMI
+357,"Hemet (Devonshire Ave), California",Hemet,CA,United States,HMT
+358,"Homewood, Illinois",Homewood,IL,United States,HMW
+359,"Hanford, California",Hanford,CA,United States,HNF
+360,"Hancock, Maryland",Hancock,MD,United States,HNK
+361,"Hollywood, Florida",Hollywood,FL,United States,HOL
+362,"Holland, Michigan",Holland,MI,United States,HOM
+363,"Hood River, Oregon",Hood River,OR,United States,HOO
+364,"Houston, Texas",Houston,TX,United States,HOS
+365,"High Point, North Carolina",High Point,NC,United States,HPT
+366,"Hammonton, New Jersey",Hammonton,NJ,United States,HTN
+367,"Hudson, New York",Hudson,NY,United States,HUD
+368,"Huntington, West Virginia",Huntington,WV,United States,HUN
+369,"Hutchinson, Kansas",Hutchinson,KS,United States,HUT
+370,"Howard City, Michigan",Howard City,MI,United States,HWC
+371,"Indio, California",Indio,CA,United States,IDO
+372,"Independence, Missouri",Independence,MO,United States,IDP
+373,"Indianapolis, Indiana",Indianapolis,IN,United States,IND
+374,"Irvine, California",Irvine,CA,United States,IRV
+375,"Isleton, California",Isleton,CA,United States,ISE
+376,"Jackson, Mississippi",Jackson,MS,United States,JAN
+377,"Jacksonville, Florida",Jacksonville,FL,United States,JAX
+378,"Jefferson City, Missouri",Jefferson City,MO,United States,JEF
+379,"Jessup, Maryland",Jessup,MD,United States,JES
+380,"Jamestown, New York",Jamestown,NY,United States,JMN
+381,"June Lake, California",June Lake,CA,United States,JNL
+382,"Joliet, Illinois",Joliet,IL,United States,JOL
+383,"Jesup, Georgia",Jesup,GA,United States,JSP
+384,"Johnstown, Pennsylvania",Johnstown,PA,United States,JST
+385,"Janesville, Wisconsin",Janesville,WI,United States,JVL
+386,"Jackson, Michigan",Jackson,MI,United States,JXN
+387,"Kalamazoo, Michigan",Kalamazoo,MI,United States,KAL
+388,"Kannapolis, North Carolina",Kannapolis,NC,United States,KAN
+389,"Kansas City, Missouri",Kansas City,MO,United States,KCY
+390,"Kewanee, Illinois",Kewanee,IL,United States,KEE
+391,"Kelso-Longview, Washington",Kelso,WA,United States,KEL
+392,"Klamath Falls, Oregon",Klamath Falls,OR,United States,KFS
+393,"King City, California",King City,CA,United States,KGC
+394,"Kingsley, Michigan",Kingsley,MI,United States,KGS
+395,"Killeen, Texas",Killeen,TX,United States,KIL
+396,"Kingston, Rhode Island",West Kingston,RI,United States,KIN
+397,"Kissimmee, Florida",Kissimmee,FL,United States,KIS
+398,"Kankakee, Illinois",Kankakee,IL,United States,KKI
+399,"Kalkaska, Michigan",Kalkaska,MI,United States,KLK
+400,"Kingman, Arizona",Kingman,AZ,United States,KNG
+401,"Kent Island, Maryland",Grasonville,MD,United States,KNT
+402,"Kensington, Maryland",Kensington,MD,United States,KSM
+403,"Kettleman City, California",Kettleman City,CA,United States,KTC
+404,"Kettle Falls, Washington",Kettle Falls,WA,United States,KTF
+405,"Kingstree, South Carolina",Kingstree,SC,United States,KTR
+406,"Kirkwood, Missouri",Kirkwood,MO,United States,KWD
+407,"Latrobe, Pennsylvania",Latrobe,PA,United States,LAB
+408,"La Grande, Oregon",La Grande,OR,United States,LAE
+409,"Lafayette, Indiana",Lafayette,IN,United States,LAF
+410,"La Grange Road, Illinois",La Grange,IL,United States,LAG
+411,"La Junta, Colorado",La Junta,CO,United States,LAJ
+412,"Lakeland, Florida",Lakeland,FL,United States,LAK
+413,"L'Anse, Michigan",L'Anse,MI,United States,LAN
+414,"La Plata, Missouri",La Plata,MO,United States,LAP
+415,"Las Vegas International Airport, Nevada",Las Vegas,NV,United States,LAS
+416,"Laurel, Mississippi",Laurel,MS,United States,LAU
+417,"Los Angeles, California",Los Angeles,CA,United States,LAX
+418,"Long Beach, California",Long Beach,CA,United States,LBC
+419,"Long Beach (Queen Mary), California",Long Beach,CA,United States,LBQ
+420,"La Crescenta, California",La Crescenta,CA,United States,LCA
+421,"Lake Charles, Louisiana",Lake Charles,LA,United States,LCH
+422,"Lincoln, Illinois",Lincoln,IL,United States,LCN
+423,"Lancaster, California",Lancaster,CA,United States,LCS
+424,"Lincolnville, Maine",Lincolnville,ME,United States,LCV
+425,"Lordsburg, New Mexico",Lordsburg,NM,United States,LDB
+426,"Lindenwold, New Jersey",Somerdale,NJ,United States,LDW
+427,"Lee's Summit, Missouri",Lee's Summit,MO,United States,LEE
+428,"Leggett, California",Leggett,CA,United States,LEG
+429,"Leavenworth (Buses), Washington",Leavenworth,WA,United States,LEV
+430,"Lewistown, Pennsylvania",Lewistown,PA,United States,LEW
+431,"Lexington, North Carolina",Lexington,NC,United States,LEX
+432,"Lafayette, Louisiana",Lafayette,LA,United States,LFT
+433,"Lego Land, Carlsbad, California",Carlsbad,CA,United States,LGO
+434,Legoland Admission Ticket,Carlsbad,CA,United States,LGX
+435,"Libby, Montana",Libby,MT,United States,LIB
+436,"Livermore (Transit Center), California",Livermore,CA,United States,LIV
+437,"Lakeland, Florida",Lakeland,FL,United States,LKL
+438,"Loon Lake, Washington",Loon Lake,WA,United States,LLK
+439,"Lemoore, California",Lemoore,CA,United States,LMC
+440,"Lemoore (Naval Air Station), California",Lemoore,CA,United States,LMN
+441,"La Marque, Texas",La Marque,TX,United States,LMQ
+442,"Lamar, Colorado",Lamar,CO,United States,LMR
+443,"Lamy, New Mexico",Lamy,NM,United States,LMY
+444,"Lancaster, Pennsylvania",Lancaster,PA,United States,LNC
+445,"Lincoln, Nebraska",Lincoln,NE,United States,LNK
+446,"Laguna Niguel/Mission Viejo, California",Laguna Niguel,CA,United States,LNL
+447,"Lincoln, New Hampshire",Lincoln,NH,United States,LNN
+448,"East Lansing, Michigan",East Lansing,MI,United States,LNS
+449,"Laughlin, Nevada",Laughlin,NV,United States,LNV
+450,"Lodi, California",Lodi,CA,United States,LOD
+451,"Lompoc, California",Lompoc,CA,United States,LOM
+452,"Lorton (Auto Train), Virginia",Lorton,VA,United States,LOR
+453,"Lake Placid, New York",Lake Placid,NY,United States,LPD
+454,"Lapeer, Michigan",Lapeer,MI,United States,LPE
+455,"La Pine, Oregon",La Pine,OR,United States,LPN
+456,"Lompoc-Surf, California",Surf,CA,United States,LPS
+457,"La Quinta, California",La Quinta,CA,United States,LQT
+458,"Lawrence, Kansas",Lawrence,KS,United States,LRC
+459,"Little Rock, Arkansas",Little Rock,AR,United States,LRK
+460,"Laurel, Maryland",Laurel,MD,United States,LRM
+461,"Laurel Racetrack, Maryland",Laurel,MD,United States,LRT
+462,"La Crosse, Wisconsin",La Crosse,WI,United States,LSE
+463,"Las Vegas, New Mexico",Las Vegas,NM,United States,LSV
+464,"Littleton, New Hampshire",Littleton,NH,United States,LTL
+465,"Lathrop/Manteca, California",Manteca,CA,United States,LTM
+466,"Littlerock, California",Littlerock,CA,United States,LTR
+467,"Laytonville, California",Laytonville,CA,United States,LTV
+468,"Louisville, Kentucky",Louisville,KY,United States,LVL
+469,"Lee Vining, California",Lee Vining,CA,United States,LVN
+470,"Las Vegas (Downtown), Nevada",Las Vegas,NV,United States,LVS
+471,"Longview, Texas",Longview,TX,United States,LVW
+472,"Leavenworth (Trains), Washington",Leavenworth,WA,United States,LWA
+473,"Lewiston, Idaho",Lewiston,ID,United States,LWN
+474,"Lynchburg, Virginia",Lynchburg,VA,United States,LYH
+475,"Macomb, Illinois",Macomb,IL,United States,MAC
+476,"Mackinaw City, Michigan",Mackinaw City,MI,United States,MAK
+477,"Malta, Montana",Malta,MT,United States,MAL
+478,"Marceline, Missouri",Marceline,MO,United States,MAR
+479,"Mattoon, Illinois",Mattoon,IL,United States,MAT
+480,"Maysville,  Kentucky",Maysville,KY,United States,MAY
+481,"McCall, Idaho",McCall,ID,United States,MCA
+482,"McComb, Mississippi",McComb,MS,United States,MCB
+483,"Merced, California",Merced,CA,United States,MCD
+484,"McGregor, Texas",McGregor,TX,United States,MCG
+485,"Michigan City, Indiana",Michigan City,IN,United States,MCI
+486,"McCook, Nebraska",McCook,NE,United States,MCK
+487,"Monocacy (Frederick), Maryland",Frederick,MD,United States,MCY
+488,"Meriden, Connecticut",Meriden,CT,United States,MDN
+489,"Midpines, California",Midpines,CA,United States,MDP
+490,"Madera, California",Madera,CA,United States,MDR
+492,"Mendota, Illinois",Mendota,IL,United States,MDT
+493,"Monroe (Eastbound), Washington",Monroe,WA,United States,MEE
+494,"Meridian, Mississippi",Meridian,MS,United States,MEI
+495,"Memphis, Tennessee",Memphis,TN,United States,MEM
+496,"Metropark (Iselin), New Jersey",Iselin,NJ,United States,MET
+497,"Monroe (Westbound), Washington",Monroe,WA,United States,MEW
+498,"Medford, Oregon",Medford,OR,United States,MFR
+499,"Mangonia Park, Florida",West Palm Beach,FL,United States,MGP
+500,"Morgan Hill, California",Morgan Hill,CA,United States,MHC
+501,"Marshall, Texas",Marshall,TX,United States,MHL
+502,"Manchester, New Hampshire",Manchester,NH,United States,MHT
+503,"Miami, Florida",Miami,FL,United States,MIA
+504,"Middletown, Pennsylvania",Middletown,PA,United States,MID
+505,"Mineola, Texas",Mineola,TX,United States,MIN
+506,"Mount Joy, Pennsylvania",Mount Joy,PA,United States,MJY
+507,"Milwaukee (General Mitchell Intl Airport), Wisconsin",Milwaukee,WI,United States,MKA
+508,"Milwaukee (Intermodal Station), Wisconsin",Milwaukee,WI,United States,MKE
+509,"McKinleyville, California",McKinleyville,CA,United States,MKV
+510,"Moline, Illinois",Moline,IL,United States,MLI
+511,"Moses Lake, Washington",Moses Lake,WA,United States,MLK
+512,"Mancelona, Michigan",Mancelona,MI,United States,MLN
+513,"Mammoth Lakes, California",Mammoth Lakes,CA,United States,MMK
+514,"Montgomery, West Virginia",Montgomery,WV,United States,MNG
+515,"Manning, Oregon",Manning,OR,United States,MNI
+516,"Menomonie, Wisconsin",Menomonie,WI,United States,MNM
+517,"Moscow, Idaho",Moscow,ID,United States,MOC
+518,"Modesto, California",Modesto,CA,United States,MOD
+519,"Mojave, California",Mojave,CA,United States,MOJ
+520,"Minot, North Dakota",Minot,ND,United States,MOT
+521,"Moreno Valley, California",Riverside,CA,United States,MOV
+522,"Moorpark, California",Moorpark,CA,United States,MPK
+523,"Montpelier, Vermont",Montpelier,VT,United States,MPR
+524,"Marquette, Michigan",Marquette,MI,United States,MQT
+525,"Martinsburg, West Virginia",Martinsburg,WV,United States,MRB
+526,"Maricopa, Arizona",Maricopa,AZ,United States,MRC
+527,"Mariposa (Midtown), California",Mariposa,CA,United States,MRM
+528,"Mariposa (Park and Ride), California",Mariposa,CA,United States,MRP
+529,"Marysville, California",Marysville,CA,United States,MRV
+530,"Monterey (Transit Plaza), California",Monterey,CA,United States,MRY
+531,"Martin State Airport, Maryland",Middle River,MD,United States,MSA
+533,"Madison (Deforest), Wisconsin",Deforest,WI,United States,MSD
+534,"Mosinee, Wisconsin",Mosinee,WI,United States,MSI
+535,"Madison (University of Wisconsin), Wisconsin",Madison,WI,United States,MSN
+536,"St. Paul-Minneapolis, Minnesota",St. Paul,MN,United States,MSP
+537,"Manassas, Virginia",Manassas,VA,United States,MSS
+538,"Manitowoc, Wisconsin",Manitowoc,WI,United States,MTC
+539,"Metropolitan Grove, Maryland",Gaithersburg,MD,United States,MTG
+540,"Manton, Michigan",Manton,MI,United States,MTO
+541,"Mt. Pleasant, Iowa",Mt. Pleasant,IA,United States,MTP
+542,"Montreal (Gare Centrale), Quebec",Montreal,QC,Canada,MTR
+543,"Martinez, California",Martinez,CA,United States,MTZ
+544,"Muirkirk, Maryland",Beltsville,MD,United States,MUK
+545,"Malvern, Arkansas",Malvern,AR,United States,MVN
+546,"Mount Vernon, Washington",Mount Vernon,WA,United States,MVW
+547,"Marinette, Wisconsin",Marinette,WI,United States,MWI
+548,"Monterey (Aquarium), California",Monterey,CA,United States,MYA
+549,"Monterey (Hyatt Regency), California",Monterey,CA,United States,MYH
+550,"Monterey (Marriott), California",Monterey,CA,United States,MYM
+551,"Mystic, Connecticut",Mystic,CT,United States,MYS
+552,"Monterey (Travelodge), California",Monterey,CA,United States,MYT
+553,"Nampa, Idaho",Nampa,ID,United States,NAM
+554,"Napa (VINE Transit Center), California",Napa,CA,United States,NAP
+555,"New Brunswick, New Jersey",New Brunswick,NJ,United States,NBK
+556,"Newbern-Dyersburg, Tennessee",Newbern,TN,United States,NBN
+557,"Newburyport, Massachusetts",Newburyport,MA,United States,NBT
+558,"New Buffalo, Michigan",New Buffalo,MI,United States,NBU
+559,"Nacogdoches, Texas",Nacogdoches,TX,United States,NCG
+560,"Necanicum Junction, Oregon",Necanicum Junction,OR,United States,NCM
+561,"New Carrollton, Maryland",New Carrollton,MD,United States,NCR
+562,"Needles, California",Needles,CA,United States,NDL
+563,"Newton, Kansas",Newton,KS,United States,NEW
+564,"Norfolk, Virginia",Norfolk,VA,United States,NFK
+565,"Niagara Falls, New York, United States",Niagara Falls,NY,United States,NFL
+566,"Niagara Falls, Ontario, Canada",Niagara Falls,ON,Canada,NFS
+567,"Santa Clarita-Newhall, California",Santa Clarita,CA,United States,NHL
+568,"New Hampton, New Hampshire",New Hampton,NH,United States,NHN
+569,"New Haven, Connecticut",New Haven,CT,United States,NHV
+570,"New Iberia, Louisiana",New Iberia,LA,United States,NIB
+571,"New London, Connecticut",New London,CT,United States,NLC
+572,"Niles, Michigan",Niles,MI,United States,NLS
+573,"Nanaimo, British Columbia",Nanaimo,BC,Canada,NNI
+574,"New Orleans, Louisiana",New Orleans,LA,United States,NOL
+575,"Norman, Oklahoma",Norman,OK,United States,NOR
+576,"Newport News, Virginia",Newport News,VA,United States,NPN
+577,"Newport, Oregon",Newport,OR,United States,NPO
+578,"Naperville, Illinois",Naperville,IL,United States,NPV
+579,"Napa (Wine Train Station), California",Napa,CA,United States,NPW
+580,"Newark, Delaware",Newark,DE,United States,NRK
+581,"New Rochelle, New York",New Rochelle,NY,United States,NRO
+582,"North Carolina State Fair, North Carolina",North Carolina State Fair,NC,United States,NSF
+583,"Nashua, New Hampshire",Nashua,NH,United States,NSH
+584,"Newark (Penn Station), New Jersey",Newark,NJ,United States,NWK
+585,"New York State Fair, New York",Syracuse,NY,United States,NYF
+586,"New York (Penn Station), New York",New York,NY,United States,NYP
+587,"Oakland (Coliseum/Airport), California",Oakland,CA,United States,OAC
+588,"Ocala, Florida",Ocala,FL,United States,OCA
+589,"Ocean City, Maryland",Ocean City,MD,United States,OCM
+590,"Oconto, Wisconsin",Oconto,WI,United States,OCO
+591,"Ocean Pines, Maryland",Berlin,MD,United States,OCP
+592,"Ogden, Utah",Ogden,UT,United States,OGD
+593,"Orange, California",Orange,CA,United States,OGE
+594,"Okanagan,  Washington",Okanogan,WA,United States,OGW
+595,"Oklahoma City, Oklahoma",Oklahoma City,OK,United States,OKC
+596,"Okeechobee, Florida",Okeechobee,FL,United States,OKE
+597,"Oakland (Jack London Square), California",Oakland,CA,United States,OKJ
+598,"Oakville, Ontario",Oakville,ON,Canada,OKL
+599,"San Diego (Old Town), California",San Diego,CA,United States,OLT
+600,"Olympia-Lacey, Washington",Lacey,WA,United States,OLW
+601,"Omaha, Nebraska",Omaha,NE,United States,OMA
+602,"Omak, Washington",Omak,WA,United States,OMW
+603,"Ontario, California",Ontario,CA,United States,ONA
+604,"Ontario, Oregon",Ontario,OR,United States,ONT
+605,"Old Orchard Beach, Maine (Seasonal)",Old Orchard Beach,ME,United States,ORB
+606,"Oregon City, Oregon",Oregon City,OR,United States,ORC
+607,"Orlando, Florida",Orlando,FL,United States,ORL
+608,"Orono-University of Maine, Maine",Orono,ME,United States,ORO
+609,"Oroville, California",Oroville,CA,United States,ORV
+610,"Old Saybrook, Connecticut",Old Saybrook,CT,United States,OSB
+611,"Osceola, Iowa",Osceola,IA,United States,OSC
+612,"Oceanside, California",Oceanside,CA,United States,OSD
+613,"Oshkosh (Airport), Wisconsin",Oshkosh,WI,United States,OSH
+614,"Oshkosh (University of Wisconsin), Wisconsin",Oshkosh,WI,United States,OSU
+615,"Ottumwa, Iowa",Ottumwa,IA,United States,OTM
+616,"Odenton, Maryland",Odenton,MD,United States,OTN
+617,"Owosso, Michigan",Owosso,MI,United States,OWO
+618,"Oxnard, California",Oxnard,CA,United States,OXN
+619,"Palatka, Florida",Palatka,FL,United States,PAK
+620,"Paoli, Pennsylvania",Paoli,PA,United States,PAO
+621,"Parkesburg, Pennsylvania",Parkesburg,PA,United States,PAR
+622,"Pasadena, California",Pasadena,CA,United States,PAS
+623,"Poplar Bluff, Missouri",Poplar Bluff,MO,United States,PBF
+624,"Pemberton, British Columbia",Pemberton,BC,Canada,PBT
+625,"Port Charlotte, Florida",Port Charlotte,FL,United States,PCH
+626,"Princeton, Illinois",Princeton,IL,United States,PCT
+627,"Placerville, California",Placerville,CA,United States,PCV
+628,"Palm Desert, California",Palm Desert,CA,United States,PDC
+629,"Portland (Greyhound Station), Oregon",Portland,OR,United States,PDG
+630,"Prunedale, California",Prunedale,CA,United States,PDL
+631,"Portland (Amtrak - Union Station), Oregon",Portland,OR,United States,PDX
+632,"Pendleton, Oregon",Pendleton,OR,United States,PEN
+633,"Post Falls, Idaho",Post Falls,ID,United States,PFS
+634,"Pittsburgh, Pennsylvania",Pittsburgh,PA,United States,PGH
+635,"Phoenix (Airport), Arizona",Phoenix,AZ,United States,PHA
+636,"Phoenix (Greyhound), Arizona",Phoenix,AZ,United States,PHG
+637,"Philadelphia (30th St), Pennsylvania",Philadelphia,PA,United States,PHL
+638,"Philadelphia (North), Pennsylvania",Philadelphia,PA,United States,PHN
+639,"Peoria, Illinois",Peoria,IL,United States,PIA
+640,"Picayune, Mississippi",Picayune,MS,United States,PIC
+641,"Pittsfield, Massachusetts",Pittsfield,MA,United States,PIT
+642,"Princeton Junction, New Jersey",Princeton Junction,NJ,United States,PJC
+643,"Plattsburgh, New York",Plattsburgh,NY,United States,PLB
+644,"Plano, Illinois",Plano,IL,United States,PLO
+645,"Pleasanton (ACE Station), California",Pleasanton,CA,United States,PLS
+646,"Plummer, Idaho",Plummer,ID,United States,PLU
+647,"Palmdale, California",Palmdale,CA,United States,PMD
+648,"Primm, Nevada",Primm,NV,United States,PMM
+649,"Plymouth, New Hampshire",Plymouth,NH,United States,PMO
+650,"Pontiac, Michigan",Pontiac,MI,United States,PNT
+651,"Portage, Wisconsin",Portage,WI,United States,POG
+652,"Port Henry, New York",Port Henry,NY,United States,POH
+653,"Pontiac, Illinois",Pontiac,IL,United States,PON
+654,"Portland, Maine",Portland,ME,United States,POR
+655,"Pomona (Sunset Ltd), California",Pomona,CA,United States,POS
+656,"Poughkeepsie, New York",Poughkeepsie,NY,United States,POU
+657,"Paso Robles, California",Paso Robles,CA,United States,PRB
+658,"Prince, West Virginia (Beckley)",Prince,WV,United States,PRC
+659,"Perris, California",Perris,CA,United States,PRI
+660,"Port Kent, New York",Port Kent,NY,United States,PRK
+661,"Point of Rocks, Maryland",Point of Rocks,MD,United States,PRM
+662,"Provo, Utah",Provo,UT,United States,PRO
+663,"Perryville, Maryland",Perryville,MD,United States,PRV
+664,"Pasco, Washington",Pasco,WA,United States,PSC
+665,"Petoskey, Michigan",Petosky,MI,United States,PSK
+666,"Palm Springs (Train), California",Palm Springs,CA,United States,PSN
+667,"Palm Springs (Buses-Airport), California",Palm Springs,CA,United States,PSP
+668,"Palm Springs (Buses-Downtown), California",Palm Springs,CA,United States,PSS
+669,"Pellston, Michigan",Pellston,MI,United States,PST
+670,"Petersburg, Virginia",Petersburg,VA,United States,PTB
+671,"Petaluma, California",Petaluma,CA,United States,PTC
+672,"Pateros, Washington",Pateros,WA,United States,PTE
+673,"Port Huron, Michigan",Port Huron,MI,United States,PTH
+674,"Potlatch, Idaho",Potlatch,ID,United States,PTL
+675,"Portsmouth, New Hampshire",Portsmouth,NH,United States,PTS
+676,"Pueblo, Colorado",Pueblo,CO,United States,PUB
+677,"Pullman, Washington",Pullman,WA,United States,PUL
+678,"Purcell, Oklahoma",Purcell,OK,United States,PUR
+679,"Providence, Rhode Island",Providence,RI,United States,PVD
+680,"Pauls Valley, Oklahoma",Pauls Valley,OK,United States,PVL
+681,"Phoenix (Metro Center Transit Station), Arizona",Phoenix,AZ,United States,PXN
+682,"Quantico, Virginia",Quantico,VA,United States,QAN
+683,"Quincy, Illinois",Quincy,IL,United States,QCY
+684,"Quincy, Washington",Quincy,WA,United States,QUC
+685,"Raton, New Mexico",Raton,NM,United States,RAT
+686,"Richmond, British Columbia",Richmond,BC,Canada,RBC
+687,"Red Bluff, California",Red Bluff,CA,United States,RBF
+688,"Rockford, Illinois",Rockford,IL,United States,RCK
+689,"Redding (Amtrak Station), California",Redding,CA,United States,RDD
+690,"Redmond Airport, Oregon",Redmond,OR,United States,RDM
+691,"Redding (RABA Transit Center), California",Redding,CA,United States,RDR
+692,"Rio Dell-Scotia, California",Scotia,CA,United States,RDS
+693,"Red Wing, Minnesota",Red Wing,MN,United States,RDW
+694,"Reed City, Michigan",Reed City,MI,United States,REE
+696,"Rensselaer, Indiana",Rensselaer,IN,United States,REN
+697,"Raleigh, North Carolina",Raleigh,NC,United States,RGH
+698,"Rhinecliff, New York",Rhinecliff,NY,United States,RHI
+699,"Richmond, California",Richmond,CA,United States,RIC
+700,"Riverside, California",Riverside,CA,United States,RIV
+701,"Rockford, Michigan",Rockford,MI,United States,RKF
+702,"Rock Island, Illinois",Rock Island,IL,United States,RKI
+703,"Rockville, Maryland",Rockville,MD,United States,RKV
+704,"Rocklin, California",Rocklin,CA,United States,RLN
+706,"Rocky Mount, North Carolina",Rocky Mount,NC,United States,RMT
+707,"Reno, Nevada",Reno,NV,United States,RNO
+708,"Running Y Ranch, Oregon",Klamath Falls,OR,United States,RNY
+709,"Rochester, New York",Rochester,NY,United States,ROC
+710,"Rockland, Maine",Rockland,ME,United States,ROD
+711,"Rome, New York",Rome,NY,United States,ROM
+712,"Royal Oak, Michigan",Royal Oak,MI,United States,ROY
+714,"Rohnert Park, California",Rohnert Park,CA,United States,RPC
+715,"Randolph, Vermont",Randolph,VT,United States,RPH
+716,"Reedsport, Oregon",Reedsport,OR,United States,RPT
+717,"Rouses Point, New York",Rouses Point,NY,United States,RSP
+718,"Roseville, California",Roseville,CA,United States,RSV
+719,"Route 128, Westwood, Massachusetts",Westwood,MA,United States,RTE
+720,"Rantoul, Illinois",Rantoul,IL,United States,RTL
+721,"Ritzville, Washington",Ritzville,WA,United States,RTZ
+722,"Rutland, Vermont",Rutland,VT,United States,RUD
+723,"Rugby, North Dakota",Rugby,ND,United States,RUG
+724,"Riverdale, Maryland",Riverdale,MD,United States,RVD
+725,"Richmond (Main St), Virginia",Richmond,VA,United States,RVM
+726,"Richmond (Staples Mill Rd), Virginia",Richmond,VA,United States,RVR
+727,"Rio Vista, California",Rio Vista,CA,United States,RVT
+728,"St. Albans, Vermont",St Albans,VT,United States,SAB
+729,"Sacramento, California",Sacramento,CA,United States,SAC
+730,"Santa Fe (Lamy Shuttle), New Mexico",Santa Fe,NM,United States,SAF
+731,"Salisbury, North Carolina",Salisbury,NC,United States,SAL
+732,"San Diego (Downtown), California",San Diego,CA,United States,SAN
+733,"Saco, Maine",Saco,ME,United States,SAO
+734,"Santa Paula, California",Santa Paula,CA,United States,SAP
+735,"Saratoga Springs, New York",Saratoga Springs,NY,United States,SAR
+736,"San Antonio, Texas",San Antonio,TX,United States,SAS
+737,"Santa Maria, California",Santa Maria,CA,United States,SAT
+738,"Savannah, Georgia",Savannah,GA,United States,SAV
+739,"Santa Barbara, California",Santa Barbara,CA,United States,SBA
+740,"Sebring, Florida",Sebring,FL,United States,SBG
+741,"Shelby, Montana",Shelby,MT,United States,SBY
+742,"St. Catharines, Ontario",St. Catharines,ON,Canada,SCA
+743,"Santa Clara (University), California",Santa Clara,CA,United States,SCC
+744,"St. Cloud, Minnesota",St. Cloud,MN,United States,SCD
+745,"Schriever, Louisiana",Schriever,LA,United States,SCH
+746,"Sacramento (State Capitol), California",Sacramento,CA,United States,SCS
+747,"Santa Cruz, California",Santa Cruz,CA,United States,SCZ
+748,"Sedona, Arizona",Sedona,AZ,United States,SDC
+749,"Slidell, Louisiana",Slidell,LA,United States,SDL
+750,"Schenectady, New York",Schenectady,NY,United States,SDY
+751,"Seattle (Amtrak), Washington",Seattle,WA,United States,SEA
+753,"Sedalia, Missouri",Sedalia,MO,United States,SED
+754,"Seaside, California",Seaside,CA,United States,SES
+755,"Sanford (Auto Train), Florida",Sanford,FL,United States,SFA
+757,"San Francisco (Ferry), California",San Francisco,CA,United States,SFC
+758,"San Francisco (Financial), California",San Francisco,CA,United States,SFF
+759,"San Francisco (Groups Only),California",San Francisco,CA,United States,SFG
+760,"San Francisco (Conv Ctr), California",San Francisco,CA,United States,SFM
+761,"San Francisco (Caltrain), California",San Francisco,CA,United States,SFP
+762,"San Francisco (Shopping), California",San Francisco,CA,United States,SFS
+763,"San Francisco (Civic Center), California",San Francisco,CA,United States,SFV
+764,"San Francisco (Wharf), California",San Francisco,CA,United States,SFW
+765,"Sagle, Idaho",Sagle,ID,United States,SGL
+766,"Saginaw, Michigan",Saginaw,MI,United States,SGW
+767,"Sheboygan, Wisconsin",Sheboygan,WI,United States,SHB
+768,"Shreveport, Louisiana",Shreveport,LA,United States,SHR
+769,"Shawano, Wisconsin",Shawano,WI,United States,SHW
+770,"Sandpoint (Bus), Idaho",Sandpoint,ID,United States,SID
+771,"Simi Valley, California",Simi Valley,CA,United States,SIM
+772,"San Jose, California",San Jose,CA,United States,SJC
+773,"St. Joseph, Michigan",St. Joseph,MI,United States,SJM
+774,"Skykomish (Eastbound), Washington",Skykomish,WA,United States,SKE
+775,"Stockton (711-718), California",Stockton,CA,United States,SKN
+776,"Stockton (ACE, 701-704), California",Stockton,CA,United States,SKT
+777,"Skykomish (Westbound), Washington",Skykomish,WA,United States,SKW
+778,"Sandusky, Ohio",Sandusky,OH,United States,SKY
+779,"Salt Lake City (Buses), Utah",Salt Lake City,UT,United States,SLB
+780,"Salt Lake City (Amtrak), Utah",Salt Lake City,UT,United States,SLC
+781,"Salem (Greyhound), Oregon",Salem,OR,United States,SLG
+782,"Stateline Transit Center, California",Stateline,CA,United States,SLH
+783,"Salem, Oregon",Salem,OR,United States,SLM
+784,"Stateline, Nevada",Stateline,NV,United States,SLN
+785,"San Luis Obispo, California",San Luis Obispo,CA,United States,SLO
+786,"San Luis Obispo (Cal Poly), California",San Luis Obispo,CA,United States,SLP
+787,"St-Lambert, Quebec",St-Lambert,QC,Canada,SLQ
+788,"Salisbury (BayRunner Shuttle), Maryland",Salisbury,MD,United States,SLS
+789,"South Lake Tahoe, California",South Lake Tahoe,CA,United States,SLT
+790,"Solvang, California",Solvang,CA,United States,SLV
+791,"Salisbury (Greyhound), Maryland",Salisbury,MD,United States,SLY
+792,"San Marcos, Texas",San Marcos,TX,United States,SMC
+793,"Madison (Dutch Mill), Wisconsin",Madison,WI,United States,SMD
+794,"Sault Sainte Marie, Michigan",Sault Sainte Marie,MI,United States,SMI
+795,"Smith River, California",Smith River,CA,United States,SMR
+796,"Summit, Illinois",Summit,IL,United States,SMT
+797,"Santa Ana, California",Santa Ana,CA,United States,SNA
+798,"San Bernardino (Amtrak Station), California",San Bernardino,CA,United States,SNB
+799,"San Juan Capistrano, California",San Juan Capistrano,CA,United States,SNC
+800,"Sanderson, Texas",Sanderson,TX,United States,SND
+801,"San Clemente Pier, California",San Clemente,CA,United States,SNP
+802,"Salinas, California",Salinas,CA,United States,SNS
+803,"Stanley, Wisconsin",Stanley,WI,United States,SNY
+804,"South Bend, Indiana",South Bend,IN,United States,SOB
+805,"Solana Beach, California",Solana Beach,CA,United States,SOL
+806,"Southern Pines, North Carolina",Southern Pines,NC,United States,SOP
+807,"Spartanburg, South Carolina",Spartanburg,SC,United States,SPB
+808,"San Pedro (Catalina Terminal), California",San Pedro,CA,United States,SPD
+809,"Springfield, Massachusetts",Springfield,MA,United States,SPG
+810,"Springfield, Illinois",Springfield,IL,United States,SPI
+811,"Spokane, Washington",Spokane,WA,United States,SPK
+812,"Staples, Minnesota",Staples,MN,United States,SPL
+813,"South Shore-South Portsmouth, Kentucky",South Shore,KY,United States,SPM
+814,"San Pedro (Downtown), California",San Pedro,CA,United States,SPO
+815,"Sandpoint (Amtrak), Idaho",Sandpoint,ID,United States,SPT
+816,"Sparks, Nevada (Thruway Buses)",Sparks,NV,United States,SPX
+817,"Squamish, British Columbia",Squamish,BC,Canada,SQA
+818,"Sarasota, Florida",Sarasota,FL,United States,SRA
+819,"Santa Rosa, California",Santa Rosa,CA,United States,SRC
+820,"Saratoga Race Course, Saratoga Springs, New York",Saratoga Springs,NY,United States,SRK
+821,"Searsport, Maine",Searsport,ME,United States,SRT
+822,"Seaside, Oregon",Seaside,OR,United States,SSD
+823,"Selma, North Carolina",Selma,NC,United States,SSM
+824,"Silver Spring, Maryland",Silver Spring,MD,United States,SSP
+825,"Stevens Pass, Washington",Stevens Pass,WA,United States,SSW
+826,"Staunton, Virginia",Staunton,VA,United States,STA
+827,"St. Denis, Maryland",Baltimore,MD,United States,STD
+828,"St. George, Utah",St. George,UT,United States,STG
+829,"St. Ignace, Michigan",St. Ignace,MI,United States,STI
+830,"St. Louis, Missouri",St. Louis,MO,United States,STL
+831,"Stamford, Connecticut",Stamford,CT,United States,STM
+832,"Stanley, North Dakota",Stanley,ND,United States,STN
+833,"St Petersburg-Clearwater, Florida",Clearwater,FL,United States,STP
+835,"Stanwood, Washington",Stanwood,WA,United States,STW
+836,"Suisun-Fairfield, California",Suisun City,CA,United States,SUI
+837,"Sunriver, Oregon",Sunriver,OR,United States,SUN
+838,"Sun City-Menifee, California",Sun City-Menifee,CA,United States,SUT
+839,"Surrey, British Columbia",South Surrey,BC,Canada,SUY
+840,"Seattle (Ferry - Pier 69), Washington",Seattle,WA,United States,SVF
+841,"Savage, Maryland",Annapolis Junction,MD,United States,SVG
+842,"Stevens Point (200 Division St), Wisconsin",Stevens Point,WI,United States,SVP
+843,"Sturtevant, Wisconsin",Sturtevant,WI,United States,SVT
+844,"Stevens Point (University of Wisconsin), Wisconsin",Stevens Point,WI,United States,SVU
+845,"Scotts Valley, California",Scotts Valley,CA,United States,SVY
+846,"Syracuse, New York",Syracuse,NY,United States,SYR
+847,"Tacoma, Washington",Tacoma,WA,United States,TAC
+848,"Taylor, Texas",Taylor,TX,United States,TAY
+849,"Toccoa, Georgia",Toccoa,GA,United States,TCA
+850,"Tuscaloosa, Alabama",Tuscaloosa,AL,United States,TCL
+851,"Toledo, Oregon",Toledo,OR,United States,TDO
+852,"Tehachapi, California",Tehachapi,CA,United States,TEH
+853,"Twin Falls, Idaho",Twin Falls,ID,United States,TFI
+854,"The Dalles, Oregon",The Dalles,OR,United States,THD
+855,"Thurmond, West Virginia",Thurmond,WV,United States,THN
+856,"Tilton, New Hampshire",Tilton,NH,United States,TLT
+857,"Torrance, California",Torrance,CA,United States,TOA
+858,"Tomah, Wisconsin",Tomah,WI,United States,TOH
+859,"Toledo, Ohio",Toledo,OH,United States,TOL
+860,"Topeka, Kansas",Topeka,KS,United States,TOP
+861,"Tampa, Florida",Tampa,FL,United States,TPA
+862,"Temple, Texas",Temple,TX,United States,TPL
+863,"Tracy (Bus), California",Tracy,CA,United States,TRA
+864,"Tracy (ACE Station), California",Tracy,CA,United States,TRC
+865,"Trenton, New Jersey",Trenton,NJ,United States,TRE
+866,"Trinidad, Colorado",Trinidad,CO,United States,TRI
+867,"Turlock-Denair, California",Denair,CA,United States,TRK
+868,"Truckee, California",Truckee,CA,United States,TRU
+869,"Traverse City, Michigan",Traverse City,MI,United States,TRV
+870,"Tusayan, Arizona",Tusayan,AZ,United States,TSY
+871,"Tukwila, Washington",Tukwila,WA,United States,TUK
+872,"Tucson, Arizona",Tucson,AZ,United States,TUS
+873,"The Villages, Florida",The Villages,FL,United States,TVF
+874,"Tawas City, Michigan",Tawas City,MI,United States,TWC
+875,"Toronto, Ontario",Toronto,ON,Canada,TWO
+876,"Texarkana, Arkansas",Texarkana,AR,United States,TXA
+877,"Tyrone, Pennsylvania",Tyrone,PA,United States,TYR
+878,"Utica, New York",Utica,NY,United States,UCA
+879,"Ukiah, California",Ukiah,CA,United States,UKH
+880,"University of Pennsylvania, Philadelphia, Pennsylvania",Philadelphia,PA,United States,UOP
+883,"Winston-Salem State Univ, Winston-Salem, North Carolina",Winston-Salem,NC,United States,UWS
+884,"Virginia Beach, Virginia",Virginia Beach,VA,United States,VAB
+885,"Vancouver, British Columbia, Canada",Vancouver,BC,Canada,VAC
+886,"Vale, Oregon",Vale,OR,United States,VAE
+887,"Vail, Colorado",Vail,CO,United States,VAI
+888,"Vallejo, California",Vallejo,CA,United States,VAL
+889,"Vancouver, Washington, United States",Vancouver,WA,United States,VAN
+890,"Livermore (Vasco Road-ACE Station), California",Livermore,CA,United States,VAS
+891,"Victoria (Bus Station), British Columbia",Victoria,BC,Canada,VBC
+892,"Ventura, California",Ventura,CA,United States,VEC
+894,"Victoria (Ferry), British Columbia",Victoria,BC,Canada,VIF
+895,"Visalia, California",Visalia,CA,United States,VIS
+896,"Six Flags Discovery Kingdom (Seasonal), Vallejo, California",Vallejo,CA,United States,VMW
+897,"Van Nuys, California",Van Nuys,CA,United States,VNC
+898,"Victorville (Thruway Buses), California",Victorville,CA,United States,VRB
+899,"Victorville (Southwest Chief train), California",Victorville,CA,United States,VRV
+900,"Waterbury, Vermont",Waterbury,VT,United States,WAB
+901,"Wasco, California",Wasco,CA,United States,WAC
+902,"Washington, Missouri",Washington,MO,United States,WAH
+903,"Warrensburg, Missouri",Warrensburg,MO,United States,WAR
+904,"Washington, District of Columbia",Washington,DC,United States,WAS
+905,"Waupaca, Wisconsin",Waupaca,WI,United States,WAU
+906,"Williamsburg, Virginia",Williamsburg,VA,United States,WBG
+907,"West Baltimore, Maryland",Baltimore,MD,United States,WBL
+908,"Westchester, California",Westchester,CA,United States,WCH
+909,"White City, Oregon",White City,OR,United States,WCT
+910,"Woodbridge, Virginia",Woodbridge,VA,United States,WDB
+911,"Wisconsin Dells, Wisconsin",Wisconsin Dells,WI,United States,WDL
+912,"Waldo, Florida",Waldo,FL,United States,WDO
+913,"Waldoboro, Maine",Waldoboro,ME,United States,WDR
+914,"Wells, Maine",Wells,ME,United States,WEM
+915,"Wenatchee, Washington",Wenatchee,WA,United States,WEN
+916,"Westwood-UCLA, California",Los Angeles,CA,United States,WES
+917,"Wallingford, Connecticut",Wallingford,CT,United States,WFD
+918,"Whitefish, Montana",Whitefish,MT,United States,WFH
+919,"West Glacier, Montana",West Glacier,MT,United States,WGL
+921,"Whitehall, New York",Whitehall,NY,United States,WHL
+922,"Wishram, Washington",Wishram,WA,United States,WIH
+923,"Wilmington, Delaware",Wilmington,DE,United States,WIL
+924,"Winona, Minnesota",Winona,MN,United States,WIN
+925,"Winter Park/Fraser, Colorado",Fraser,CO,United States,WIP
+926,"Wittenberg, Wisconsin",Wittenberg,WI,United States,WIT
+927,"Wilson, North Carolina",Wilson,NC,United States,WLN
+928,"Winslow, Arizona",Winslow,AZ,United States,WLO
+929,"Westerly, Rhode Island",Westerly,RI,United States,WLY
+930,"Williams, Arizona",Williams,AZ,United States,WMA
+931,"Williams Junction, Arizona",Williams Junction,AZ,United States,WMJ
+932,"Windsor, Connecticut",Windsor,CT,United States,WND
+933,"Walloon Lake, Michigan",Walloon Lake,MI,United States,WNK
+934,"Windsor Locks, Connecticut",Windsor Locks,CT,United States,WNL
+935,"Windsor, Vermont",Windsor,VT,United States,WNM
+936,"Winnemucca, Nevada",Winnemucca,NV,United States,WNN
+937,"Walnut Ridge, Arkansas",Walnut Ridge,AR,United States,WNR
+938,"Winston-Salem, North Carolina",Winston-Salem,NC,United States,WNS
+939,"Warrenton, Oregon",Warrenton,OR,United States,WNT
+940,"Woburn, Massachusetts",Woburn,MA,United States,WOB
+941,"Worcester, Massachusetts",Worcester,MA,United States,WOR
+942,"West Palm Beach, Florida",West Palm Beach,FL,United States,WPB
+943,"Winter Park, Florida",Winter Park,FL,United States,WPK
+944,"Waupun, Wisconsin",Waupun,WI,United States,WPN
+945,"Wolf Point, Montana",Wolf Point,MT,United States,WPT
+946,"White River Jct., Vermont",White River Junction,VT,United States,WRJ
+947,"Western Railway Museum, Rio Vista Junction, California",Rio Vista Junction,CA,United States,WRM
+948,"Westbrook, Connecticut",Westbrook,CT,United States,WSB
+949,"Westfield, Wisconsin",Westfield,WI,United States,WSF
+950,"Wausau (Transit Center), Wisconsin",Wausau,WI,United States,WSJ
+951,"Whistler, British Columbia",Whistler Village,BC,Canada,WSL
+952,"Westport, New York",Westport,NY,United States,WSP
+953,"White Sulphur Springs, West Virginia",White Sulphur Springs,WV,United States,WSS
+954,"Wiscasset, Maine",Wiscasset,ME,United States,WST
+955,"Wausau-Rothschild (Lamer Bus), Wisconsin",Rothschild,WI,United States,WSU
+956,"Winter Haven, Florida",Winter Haven,FL,United States,WTH
+957,"Waterloo, Indiana",Waterloo,IN,United States,WTI
+958,"Williston, North Dakota",Williston,ND,United States,WTN
+959,"Willits, California",Willits,CA,United States,WTS
+960,"Walla Walla, Washington",Walla Walla,WA,United States,WWA
+961,"Wildwood, Florida",Wildwood,FL,United States,WWD
+962,"Yazoo City, Mississippi",Yazoo City,MS,United States,YAZ
+963,"Yemassee, South Carolina",Yemassee,SC,United States,YEM
+964,"Yonkers, New York",Yonkers,NY,United States,YNY
+965,"Yosemite - Ahwahnee Hotel, California",Yosemite National Park,CA,United States,YOA
+966,"Yosemite - Curry Village, California",Yosemite National Park,CA,United States,YOC
+967,"Yosemite - Crane Flat, California",Yosemite National Park,CA,United States,YOF
+968,"Yosemite - Lodge, California",Yosemite National Park,CA,United States,YOS
+969,"Yosemite - Tuolumne Meadow, California",Yosemite National Park,CA,United States,YOT
+970,"Yosemite - Visitor Center, California",Yosemite National Park,CA,United States,YOV
+971,"Yosemite - White Wolf, California",Yosemite National Park,CA,United States,YOW
+972,"Yuma, Arizona",Yuma,AZ,United States,YUM
+973,Six Flags Discovery Kingdom Admission Ticket ,Vallejo,CA,United States,ZMW
