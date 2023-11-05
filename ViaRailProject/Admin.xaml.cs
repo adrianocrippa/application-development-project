@@ -50,9 +50,9 @@ namespace ViaRailProject
 
             string host = "Host=localhost;";
             string port = "Port=5432;";
-            string dbName = "Database=ticketapp;";
+            string dbName = "Database=App Project;";
             string userName = "Username=postgres;";
-            string password = "Password=Tbez71192;";
+            string password = "Password=postgres;";
 
             string connectionString = string.Format("{0}{1}{2}{3}{4}", host, port, dbName, userName, password);
             return connectionString;
