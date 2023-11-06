@@ -45,5 +45,24 @@ namespace ProjectAPI.Controllers
             //last step, print
             return response;
         }
+
+        [HttpGet] // because we are going to generate Get request to the database
+        [Route("GetTripbyCity/{departurestation}")]
+        public Response GetTripByCity(string departurestation)
+        {
+            // Step 1: Creating the instance of the Response Class
+            Response response = new Response();
+            // Step 2: Create the Connection for the Database
+            NpgsqlConnection con =
+                new NpgsqlConnection(_configuration.GetConnectionString("ticketConnection"));
+            // Step 3: Creating the query with the Id passed to the system as well as
+            // connect to the database and execute the query
+            DBApplication dbA = new DBApplication();
+            // Step 4: Call the method which is going to search the student by id
+            response = dbA.GetTripByCity(con, departurestation);
+            // step 5: Return the Response 
+            return response;
+        }
+
     }
 }
