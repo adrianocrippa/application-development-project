@@ -7,8 +7,8 @@ namespace ProjectAPI.Models
     {
         //create the method to query the database
 
-        public Response GetAllTickets(NpgsqlConnection con) 
-        
+        public Response GetAllTickets(NpgsqlConnection con)
+
         {
             //1st thing, fazer a query
             string Query = "SELECT * FROM ticket";
@@ -24,18 +24,38 @@ namespace ProjectAPI.Models
 
             if(dt.Rows.Count >0)
             {
-
-                //CONTINUAR DESTE FOR LOOP
-
-                for(int = 0; int<dt.Rows.Count; int++) 
+                for(int i = 0; i<dt.Rows.Count; i++) 
                 {
                     Ticket ticket = new Ticket();
 
-                    ticket
+                    ticket.tripnumber = (int)dt.Rows[i]["tripnumber"];
+                    ticket.departurestation = (string)dt.Rows[i]["departurestation"];
+                    ticket.destinationstation = (string)dt.Rows[i]["destinationstation"];
+                    ticket.trainnumber = (int)dt.Rows[i]["trainnumber"];
+                    ticket.ticket_class = (string)dt.Rows[i]["class"]; //check error
+                    ticket.seatavailability = (int)dt.Rows[i]["seatavailability"];
+                    ticket.price = Convert.ToDouble(dt.Rows[i]["price"]);
+
+                    tickets.Add(ticket);
+
                 }
             }
 
-
+            if(tickets.Count>0)
+            {
+                response.statusCode = 200;
+                response.message = "Data Retrieved Succesfully";
+                response.ticket = null;
+                response.tickets = tickets;
+            }
+            else
+            {
+                response.statusCode = 100;
+                response.message = "Data failed to Retrieve or may table is empty";
+                response.ticket = null;
+                response.tickets = null;
+            }
+            return response;
             
 
         }

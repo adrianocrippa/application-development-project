@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjectAPI",
+    "\\ProjectAPI\\Models",
+    "\\ViaRailProject"
   ],
+  "SelectedNode": "\\ViaRailProject\\ViaRailProject.sln",
   "PreviewInSolutionExplorer": false
 }

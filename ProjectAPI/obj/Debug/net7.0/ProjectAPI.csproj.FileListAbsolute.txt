@@ -31,3 +31,4 @@ C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-proje
 C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ProjectAPI\obj\Debug\net7.0\ProjectAPI.pdb
 C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ProjectAPI\obj\Debug\net7.0\ProjectAPI.genruntimeconfig.cache
 C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ProjectAPI\obj\Debug\net7.0\ref\ProjectAPI.dll
+C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ProjectAPI\bin\Debug\net7.0\Npgsql.dll

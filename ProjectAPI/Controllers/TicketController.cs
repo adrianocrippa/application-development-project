@@ -14,7 +14,7 @@ namespace ProjectAPI.Controllers
         private readonly IConfiguration _configuration;
 
         //TicketController 
-        TicketController(IConfiguration configuration)
+        public TicketController(IConfiguration configuration)
         {
             _configuration = configuration; 
         }
@@ -37,8 +37,10 @@ namespace ProjectAPI.Controllers
 
             //need query with command and connection/
             //we create a DB class just for that
+            DBApplication dbA = new DBApplication();
 
-
+            //getting response
+            response = dbA.GetAllTickets(con);
 
             //last step, print
             return response;
