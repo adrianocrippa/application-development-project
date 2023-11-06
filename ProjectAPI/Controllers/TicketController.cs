@@ -22,9 +22,7 @@ namespace ProjectAPI.Controllers
         //first API wrapper - Get all tickets
         [HttpGet]
         [Route("GetAllTickets")] //Get request
-
         //we need to create the "GetAllTickets" API method
-
         public Response GetAllTickets()
         {
             //creating the response obj
@@ -45,6 +43,7 @@ namespace ProjectAPI.Controllers
             //last step, print
             return response;
         }
+
 
         [HttpGet] // because we are going to generate Get request to the database
         [Route("GetTripbyCity/{departurestation}")]

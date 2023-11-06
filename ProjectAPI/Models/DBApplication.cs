@@ -85,7 +85,7 @@ namespace ProjectAPI.Models
                                 ticket.departurestation = (string)dt.Rows[i]["departurestation"];
                                 ticket.destinationstation = (string)dt.Rows[i]["destinationstation"];
                                 ticket.trainnumber = (int)dt.Rows[i]["trainnumber"];
-                                ticket.ticket_class = (string)dt.Rows[i]["class"]; //check error
+                                ticket.ticket_class = (string)dt.Rows[i]["class"];
                                 ticket.seatavailability = (int)dt.Rows[i]["seatavailability"];
                                 ticket.price = Convert.ToDouble(dt.Rows[i]["price"]);
 

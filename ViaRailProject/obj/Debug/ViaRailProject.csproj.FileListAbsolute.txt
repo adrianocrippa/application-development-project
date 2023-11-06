@@ -98,3 +98,5 @@ C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-proje
 C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ViaRailProject\obj\Debug\ViaRailProject.csproj.CopyComplete
 C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ViaRailProject\obj\Debug\ViaRailProject.exe
 C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ViaRailProject\obj\Debug\ViaRailProject.pdb
+C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ViaRailProject\obj\Debug\Login.g.cs
+C:\Users\adria\Desktop\theRealFolderAppDevelopment\application-development-project\ViaRailProject\obj\Debug\Login.baml

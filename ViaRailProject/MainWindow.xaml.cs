@@ -31,9 +31,13 @@ namespace ViaRailProject
 
         private void AdminButton_Click(object sender, RoutedEventArgs e)
         {
-            Admin adminWindow = new Admin();
-            adminWindow.Show();
+            Login loginWindow = new Login();
+            loginWindow.Show();
             this.Close();
+
+            //Admin adminWindow = new Admin();
+            //adminWindow.Show();
+            //this.Close();
         }
     }
 }
