@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ctWPWZeEvkkIYFSntdK/F2VkvpiBsklTtReftqXNn3M8VljmRpuWF5SnRsnnoFwhddPg8animSBQHJL03f0LUA==",
+  "dgSpecHash": "DojvQVXxeOj6gK4KWL+pkrf7H2Bn77Dv184U1typDG148aNco1ClMZ3j+0+K82Zm5gybnq7fziwmnOCatKf8oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ProjectAPI\\ProjectAPI.csproj",
+  "projectFilePath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ProjectAPI\\ProjectAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mjepm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\mjepm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

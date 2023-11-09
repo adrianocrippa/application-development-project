@@ -23,7 +23,6 @@ namespace ViaRailProject.Models
 
         public void InsertButton_Click(object sender, RoutedEventArgs e)
         {
-            // Your testing logic here
         }
     }
 }

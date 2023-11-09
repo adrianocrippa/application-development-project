@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wXsR5J+A9mDL/btjAKytO9kw0xNQNRPgn0WUJI5F/63F0N6otx27ssg8sszzn9qv5JyNu1JgGMLo/rCBwtiXbw==",
+  "dgSpecHash": "m6vYnFvbBiBPaO29v9pSZmATwV9Qlmua9ljBLoU5puWYrp+q5PZ7JGFoHwNDEPJhN3yd15+rGTXP5+L+1nNk7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\TicketTest\\TicketTest.csproj",
+  "projectFilePath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\TicketTest\\TicketTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mjepm\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\mjepm\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

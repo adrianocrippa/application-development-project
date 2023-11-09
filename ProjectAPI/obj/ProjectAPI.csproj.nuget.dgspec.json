@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ProjectAPI\\ProjectAPI.csproj": {}
+    "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ProjectAPI\\ProjectAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ProjectAPI\\ProjectAPI.csproj": {
+    "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ProjectAPI\\ProjectAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ProjectAPI\\ProjectAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ProjectAPI\\ProjectAPI.csproj",
         "projectName": "ProjectAPI",
-        "projectPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ProjectAPI\\ProjectAPI.csproj",
+        "projectPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ProjectAPI\\ProjectAPI.csproj",
         "packagesPath": "C:\\Users\\mjepm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ProjectAPI\\obj\\",
+        "outputPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ProjectAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

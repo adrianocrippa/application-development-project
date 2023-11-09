@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\TicketTest\\TicketTest.csproj",
+      "projectUniqueName": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\TicketTest\\TicketTest.csproj",
       "projectName": "TicketTest",
-      "projectPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\TicketTest\\TicketTest.csproj",
+      "projectPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\TicketTest\\TicketTest.csproj",
       "packagesPath": "C:\\Users\\mjepm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\TicketTest\\obj\\",
+      "outputPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\TicketTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1034,8 +1034,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ViaRailProject\\ViaRailProject.csproj": {
-              "projectPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\AppDevelpProject\\application-development-project\\ViaRailProject\\ViaRailProject.csproj"
+            "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ViaRailProject\\ViaRailProject.csproj": {
+              "projectPath": "C:\\Users\\mjepm\\OneDrive\\Desktop\\Presentation\\application-development-project\\ViaRailProject\\ViaRailProject.csproj"
             }
           }
         }

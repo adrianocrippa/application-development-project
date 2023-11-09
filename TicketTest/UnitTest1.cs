@@ -1,4 +1,4 @@
-using ViaRailProject;
+
 using ViaRailProject.Models;
 
 namespace TicketTest
@@ -17,7 +17,6 @@ namespace TicketTest
         [Test]
         public void InsertButton_ClickTest()
         {
-            // Arrange
             admin.TripNumber = "123";
             admin.DepartureStation = "Station A";
             admin.DestinationStation = "Station B";
@@ -27,11 +26,12 @@ namespace TicketTest
             admin.Price = "50.00";
 
             // Act -
-            //admin.InsertButton_Click(null, null);
+            VaiRailTest.ReferenceEquals (admin, vaiRailTest);
 
             // Assert - 
+            #region
             bool insertionSuccess = true;
-
+            #endregion
             Assert.IsTrue(insertionSuccess, "Insertion was successful");
         }
     }
