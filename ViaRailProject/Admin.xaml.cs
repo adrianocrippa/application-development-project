@@ -13,11 +13,13 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using Npgsql;
+using ViaRailProject.Models;
 
 namespace ViaRailProject
 {
     public partial class Admin : Window
     {
+
         public Admin()
         {
             InitializeComponent();
